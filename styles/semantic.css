@@ -46,8 +46,7 @@ ul {
 
 }
 .p1 {
-    display: flex;
-    flex-shrink: 1;
+    flex-grow: 1;
 }
 .box {
     display: flex;
